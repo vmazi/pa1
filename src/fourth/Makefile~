@@ -1,0 +1,3 @@
+all: fourth
+
+fourth: fourth.c
